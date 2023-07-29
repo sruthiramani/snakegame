@@ -5,4 +5,17 @@ Snake grows in size with every 5 moves you make.
 Rules:
 Keep the Snake within the board. 
 
+# Build
+```sh
+make build
+```
+
+# Execute
+```sh
+make build
+./bin/snake
+```
+
+
+
 
